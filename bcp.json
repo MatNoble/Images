@@ -1,0 +1,17 @@
+{
+    "resultCode": "0",
+    "resultMessage": "查询成功！",
+    "resultData": {
+        "dataList": [],
+        "pageVo": {
+            "totalRows": 0,
+            "curPage": 1,
+            "pageSize": 5,
+            "resultMode": 0,
+            "orderBy": null,
+            "startIndex": 0,
+            "endIndex": 0,
+            "totalPages": 0
+        }
+    }
+}
